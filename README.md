@@ -1,6 +1,6 @@
 # cec-project
-repositry contains two projects
+Repository contains two projects
 
-1:image rotation
+1:Image rotation
 
-2:suduko
+2:Suduko
